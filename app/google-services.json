@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520651016169",
+    "project_id": "chat-program-9062f",
+    "storage_bucket": "chat-program-9062f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520651016169:android:1927b3bd01b01b5c712d78",
+        "android_client_info": {
+          "package_name": "com.davidoyski.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520651016169-j9orvv6ufsrisnj3fp6tgfoae078lrt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.davidoyski.chat",
+            "certificate_hash": "0f6b78df4aa63f0a0bf77252d842854ab5155ca8"
+          }
+        },
+        {
+          "client_id": "520651016169-nd0g81at348lhsekcouk1et4co5ke5cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylrOqSXBHK7V3hOG6WxnsmwiRm0UXkrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520651016169-nd0g81at348lhsekcouk1et4co5ke5cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
